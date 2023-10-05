@@ -1,33 +1,29 @@
 {
-  "projects": [
+  "users": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "name": "Krystian",
+      "avatarUrl": "/game-journal-backend/assets/undraw_Male_avatar_g98d.png",
+      "gamesPlayingId": [1, 2],
+      "gamesPlayedId": [],
+      "gamesNotPlayingId": [],
+      "description": "Very cool and smart dude!",
+      "comments": [],
+      "likes": 0
     }
   ],
-  "tasks": [
+  "games": [
     {
       "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "userId": 1,
+      "title": "Witcher 3",
+      "description": "Cool"
     },
     {
       "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "userId": 2,
+      "title": "The Sims 4",
+      "description": "Spend all your money"
     }
   ]
 }
