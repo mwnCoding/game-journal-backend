@@ -9,21 +9,14 @@
       "gamesNotPlayingId": [],
       "description": "Very cool and smart dude!",
       "comments": [],
-      "likes": 0
-    }
-  ],
-  "games": [
-    {
-      "id": 1,
-      "userId": 1,
-      "title": "Witcher 3",
-      "description": "Cool"
-    },
-    {
-      "id": 2,
-      "userId": 2,
-      "title": "The Sims 4",
-      "description": "Spend all your money"
+      "likes": 0,
+      "games": [
+        {
+          "id": 0,
+          "title": "blah",
+          "image": ""
+        }
+      ]
     }
   ]
 }
