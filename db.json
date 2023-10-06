@@ -4,7 +4,10 @@
       "id": 1,
       "name": "Krystian",
       "avatarUrl": "/game-journal-backend/assets/undraw_Male_avatar_g98d.png",
-      "gamesPlayingId": [1, 2],
+      "gamesPlayingId": [
+        1,
+        2
+      ],
       "gamesPlayedId": [],
       "gamesNotPlayingId": [],
       "description": "Very cool and smart dude!",
@@ -12,5 +15,30 @@
       "likes": 0
     }
   ],
-  "games": []
+  "games": [
+    {
+      "userId": 1,
+      "id": 3498,
+      "title": "Grand Theft Auto V",
+      "image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 4062,
+      "title": "BioShock Infinite",
+      "image": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 5679,
+      "title": "The Elder Scrolls V: Skyrim",
+      "image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 28,
+      "title": "Red Dead Redemption 2",
+      "image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+    }
+  ]
 }
