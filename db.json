@@ -9,14 +9,8 @@
       "gamesNotPlayingId": [],
       "description": "Very cool and smart dude!",
       "comments": [],
-      "likes": 0,
-      "games": [
-        {
-          "id": 0,
-          "title": "blah",
-          "image": ""
-        }
-      ]
+      "likes": 0
     }
-  ]
+  ],
+  "games": []
 }
