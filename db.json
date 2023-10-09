@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Krystian",
-      "avatarUrl": "/game-journal-backend/assets/undraw_Male_avatar_g98d.png",
+      "avatarUrl": "https://media.licdn.com/dms/image/C4E03AQEEjhIdhXkVRA/profile-displayphoto-shrink_800_800/0/1658909365124?e=1702512000&v=beta&t=BnoVPh3QSKxxcQvjE5-lz9fX8fZxQe69hmiIirZ32OI",
       "gamesPlayingId": [
         1,
         2
@@ -11,56 +11,62 @@
       "gamesPlayedId": [],
       "gamesNotPlayingId": [],
       "description": "Very cool and smart dude!",
-      "comments": [],
+      "comments": [
+        "Hey gurl, do you play Genshin?"
+      ],
       "likes": 0
     }
   ],
   "games": [
     {
       "userId": 1,
-      "id": 3498,
-      "title": "Grand Theft Auto V",
-      "image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
-      "notes": [
-        "I want to kill the prostitute",
-        "Win the game"
-      ]
+      "id": 5286,
+      "title": "Tomb Raider (2013)",
+      "image": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+      "notes": [],
+      "milestones": []
     },
     {
       "userId": 1,
-      "id": 4062,
-      "title": "BioShock Infinite",
-      "image": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
-      "notes": []
-    },
-    {
-      "userId": 1,
-      "id": 5679,
-      "title": "The Elder Scrolls V: Skyrim",
-      "image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
-      "notes": []
-    },
-    {
-      "userId": 1,
-      "id": 28,
-      "title": "Red Dead Redemption 2",
-      "image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
-      "notes": []
-    },
-    {
-      "userId": 1,
-      "id": 3439,
-      "title": "Life is Strange",
-      "image": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg",
-      "notes": []
+      "id": 3790,
+      "title": "Outlast",
+      "image": "https://media.rawg.io/media/games/9dd/9ddabb34840ea9227556670606cf8ea3.jpg",
+      "notes": [],
+      "milestones": []
     }
   ],
   "gamesNotPlaying": [
     {
       "userId": 1,
-      "id": 2454,
-      "title": "DOOM (2016)",
-      "image": "https://media.rawg.io/media/games/c4b/c4b0cab189e73432de3a250d8cf1c84e.jpg"
+      "id": 3070,
+      "title": "Fallout 4",
+      "image": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg"
+    }
+  ],
+  "gamesFinished": [
+    {
+      "userId": 1,
+      "id": 4062,
+      "title": "BioShock Infinite",
+      "image": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 28,
+      "title": "Red Dead Redemption 2",
+      "image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 5679,
+      "title": "The Elder Scrolls V: Skyrim",
+      "image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+    },
+    {
+      "userId": 1,
+      "id": 3439,
+      "title": "Life is Strange",
+      "image": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg"
     }
   ]
 }
