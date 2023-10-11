@@ -1,14 +1,5 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Krystian",
-      "avatarUrl": "https://media.licdn.com/dms/image/C4E03AQEEjhIdhXkVRA/profile-displayphoto-shrink_800_800/0/1658909365124?e=1702512000&v=beta&t=BnoVPh3QSKxxcQvjE5-lz9fX8fZxQe69hmiIirZ32OI",
-      "description": "Very cool and smart dude!",
-      "comments": [],
-      "likes": 1
-    }
-  ],
+  "users": [],
   "games": [],
   "gamesNotPlaying": [],
   "gamesFinished": []
